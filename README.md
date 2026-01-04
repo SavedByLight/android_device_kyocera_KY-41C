@@ -1,2 +1,10 @@
-# android_device_kyocera_KY-41C
-Kyocera KY-41C Initial
+# Android device tree for KYOCERA KY-41C (KY-41C)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
