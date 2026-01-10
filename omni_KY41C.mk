@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 PRODUCT_DEVICE := KY-41C
-PRODUCT_NAME := omni_KY-41C
+PRODUCT_NAME := omni_KY41C
 PRODUCT_BRAND := KYOCERA
 PRODUCT_MODEL := KY-41C
 PRODUCT_MANUFACTURER := kyocera

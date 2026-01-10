@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_KY-41C.mk
+    $(LOCAL_DIR)/omni_KY41C.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_KY-41C-eng
+    omni_KY41C-eng
